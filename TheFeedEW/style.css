@@ -1,0 +1,18 @@
+#art1 {
+    border: 2px double rgb(9, 65, 169);
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    position: absolute;
+    background-color: wheat;
+}
+h1, h2{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+h2{
+    font-size: smaller;
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
